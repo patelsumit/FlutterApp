@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<img src="splash.png" width="280" height="500">
+<img src="homepage.png" width="280" height="500">
+<img src="detailpage.png" width="280" height="500">
+<img src="listpage.png" width="280" height="500">
